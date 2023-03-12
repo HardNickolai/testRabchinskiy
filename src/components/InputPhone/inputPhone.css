@@ -1,0 +1,8 @@
+p {
+    margin: 0;
+}
+
+.block-input-phone {
+    display: flex;
+    justify-content: space-between;
+}
